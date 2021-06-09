@@ -1,7 +1,7 @@
 package base;
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  Copyright 2021 Ann Binus
 
 * Exercise 22 - Comparing Numbers
 Comparing one input to a known value is common enough, but you’ll often need to process a collection of inputs.
